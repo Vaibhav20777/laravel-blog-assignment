@@ -59,7 +59,7 @@ To save you time, the seeder creates a default test user:
 
 ---
 
-## ✅ Deployment Checklist
+##  Deployment Checklist
 1. Save this text into your README.md file.
 2. Run: git add README.md
 3. Run: git commit -m "docs: finalized project readme"
